@@ -1,8 +1,8 @@
 <h1>URC Sorting Tools</h1><br>
 
 > [!NOTE]  
-> This repository contains a small collection of utilities for speeding up archiving samples and automating parts of it.  
-> Mainly leaving this here as I plan to let someone else take ownership of my GitHub soon, thank you for all your support.
+> This repository contains a small collection of utilities for speeding up archiving samples.  
+> Mainly leaving this here as I plan to let someone else take ownership of my GitHub soon.  
 
 <h1></h1>
 
