@@ -24,7 +24,7 @@
   
 <h1></h1>
 
-### 🪄 Requirements
+### Requirements
 - Windows, this isn't designed for Mac or Linux sadly.  
 - [7-Zip](https://www.7-zip.org/download.html) for the mass folder compressor tool.  
 
