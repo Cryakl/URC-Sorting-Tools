@@ -1,7 +1,7 @@
 <h1>📦 URC Sorting Tools</h1><br> 
 
 <!-- Hey everyone, thanks for being part of the journey. When I first got this account from a friend, he didn't really think it'd get anywhere.  -->
-<!-- I just wanted to see a genuine archive of RAT samples on the net for researchers, most collections I had seen had been were not very good.  -->
+<!-- I just wanted to see a genuine archive of RAT samples on the net for researchers, most collections I had seen were not very good.           -->
 <!-- They purposefully backdoored RATs with their own payloads, their releases had been infected with a file-infector like Neshta, etc.          -->
 <!--                                                                                                                                             -->
 <!-- They never even included multiple versions or any historical versioning, so I decided to make this repository as complete as possible.      -->
